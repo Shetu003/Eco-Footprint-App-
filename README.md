@@ -4,43 +4,43 @@
 Eco-Footprint Advisor is an AI-powered web application that predicts a user's weekly carbon footprint (CO₂ emissions) based on lifestyle habits like transport usage, energy consumption, diet, and waste behavior.
 
 🛠 Tech Stack
-Machine Learning: Linear Regression (scikit-learn)
+1. Machine Learning: Linear Regression (scikit-learn)
 
-Model Accuracy: ~87% R² score on test data
+2. Model Accuracy: ~87% R² score on test data
 
-Backend: Python, Flask
+3. Backend: Python, Flask
 
-Frontend: HTML/CSS (via Flask templates)
+4. Frontend: HTML/CSS (via Flask templates)
 
-Model Deployment: Pickle (joblib)
+5. Model Deployment: Pickle (joblib)
 
-Libraries Used: NumPy, Pandas, scikit-learn, Flask
+6. Libraries Used: NumPy, Pandas, scikit-learn, Flask
 
 🔍 How It Works
-User enters weekly lifestyle data via a web form.
+1. User enters weekly lifestyle data via a web form.
 
-The data is passed to a trained Linear Regression model.
+2. The data is passed to a trained Linear Regression model.
 
-The model predicts the estimated CO₂ emission in kilograms.
+3. The model predicts the estimated CO₂ emission in kilograms.
 
-Result is displayed on the same page with a meaningful message.
+4. Result is displayed on the same page with a meaningful message.
 
 🌍 Impact
-Environmental Awareness: Helps users understand their carbon footprint and make eco-friendly choices.
+1. Environmental Awareness: Helps users understand their carbon footprint and make eco-friendly choices.
 
-Educational Use: Can be integrated into workshops or learning tools for sustainability.
+2. Educational Use: Can be integrated into workshops or learning tools for sustainability.
 
-Business Use: Extendable for green audits, ESG reports, and employee carbon tracking.
+3. Business Use: Extendable for green audits, ESG reports, and employee carbon tracking.
 
 🚀 Future Scope
-User authentication with history tracking
+1. User authentication with history tracking
 
-Personalized tips to reduce emissions
+2. Personalized tips to reduce emissions
 
-Interactive dashboards with visual insights
+3. Interactive dashboards with visual insights
 
-REST API and mobile app integration
+4. REST API and mobile app integration
 
-Model upgrade (Random Forest, XGBoost, etc.)
+5. Model upgrade (Random Forest, XGBoost, etc.)
 
 <img width="1377" height="265" alt="image" src="https://github.com/user-attachments/assets/7a5fcf0d-c169-45a0-b06b-ee103abcbf02" />
