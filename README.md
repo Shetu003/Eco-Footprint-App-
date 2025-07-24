@@ -4,7 +4,7 @@
 Eco-Footprint Advisor is an AI-powered web application that predicts a user's weekly carbon footprint (CO₂ emissions) based on lifestyle habits like transport usage, energy consumption, diet, and waste behavior.
 
 🛠 Tech Stack
-1. Machine Learning: Linear Regression (scikit-learn)
+1. Machine Learning: Random Forest Regressor (scikit-learn)
 
 2. Model Accuracy: ~87% R² score on test data
 
